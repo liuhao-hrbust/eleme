@@ -100,3 +100,10 @@ body {
     white-space: nowrap;
     text-overflow: ellipsis;
 }
+.mint-header-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.colred {
+    color: red;
+}
